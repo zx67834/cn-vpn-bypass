@@ -1,0 +1,3 @@
+# 复制本文件为 extra-ips.txt。一行一个 IP 或 CIDR，井号开头是注释。
+# 这些地址会和 cn-cidrs.txt 一起直连，不走 VPN。
+# 1.2.3.4/32
